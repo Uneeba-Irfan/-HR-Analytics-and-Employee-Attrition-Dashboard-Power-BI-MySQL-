@@ -67,7 +67,8 @@ A general snapshot of the workforce.
 - 💰 **Average Monthly Income by Department** (Bar Chart)
 - 💼 **Total Compensation by Job Role** (Bar Chart)
 
-![Alt text](https://github.com/Uneeba-Irfan/-HR-Analytics-and-Employee-Attrition-Dashboard-Power-BI-MySQL-/blob/main/Attrition.png)
+
+![ALt text](https://github.com/Uneeba-Irfan/-HR-Analytics-and-Employee-Attrition-Dashboard-Power-BI-MySQL-/blob/main/Overview.png)
 
 ### ❌ Page 2: Employee Attrition Analysis
 Focuses on understanding patterns and possible causes behind employee turnover.
@@ -78,7 +79,7 @@ Focuses on understanding patterns and possible causes behind employee turnover.
 - 🧑‍💼 **Attrition by Job Role** (Bar Chart)
 - 📈 **Salary Hike vs Time at Company** (Scatter Plot)
 - 📊 **Attrition by Age** (Histogram)
-
+![Alt text](https://github.com/Uneeba-Irfan/-HR-Analytics-and-Employee-Attrition-Dashboard-Power-BI-MySQL-/blob/main/Attrition.png)
 ## 📌 Key Insights
 - 💼 **Sales Executives** contribute the highest to total compensation.
 - 💰 Highest average monthly income observed in **Sales** and **Human Resources** departments.
