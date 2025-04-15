@@ -35,19 +35,19 @@ SELECT JobRole, SUM(MonthlyIncome) AS TotalCompensation
 FROM hr_data
 GROUP BY JobRole;
 ```
-```
+```sql
 SELECT Department, ROUND(AVG(MonthlyIncome), 2) AS AvgIncome
 FROM hr_data
 GROUP BY Department;
 ```
 
 
-```
+```sql
 SELECT Gender, COUNT(*) AS Count
 FROM hr_data
 GROUP BY Gender;
 ```
-```
+```sql
 
 SELECT WorkLifeBalance, Attrition, COUNT(*) AS Count
 FROM hr_data
