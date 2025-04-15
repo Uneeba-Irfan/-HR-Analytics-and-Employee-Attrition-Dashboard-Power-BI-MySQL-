@@ -1,7 +1,7 @@
 # HR Analytics and Employee Attrition Dashboard (Power BI + MySQL)
 
 ## 📊 Overview
-This project analyzes HR data to extract insights around **employee compensation**, **job satisfaction**, and **attrition trends**. It simulates the role of a **HR Analyst**, using MySQL for data transformation and Power BI for dashboarding.
+This project analyzes HR data to extract insights around **employee compensation**, **job satisfaction**, and **attrition trends**. It simulates the role of an **HR Analyst**, using MySQL for data transformation and Power BI for dashboarding.
 
 ---
 
@@ -18,12 +18,6 @@ The dataset includes employee details such as:
 - Attrition (Yes/No)
 - Work-Life Balance, Job Satisfaction
 - Salary Hike, Years at Company, etc.
-
----
-
-## 📂 Folder Structure
-├── README.md ├── SQL │ └── HR_Analysis.sql ├── PowerBI │ └── HR_Attrition_Analysis.pbix ├── Images │ └── Overview_Dashboard.png │ └── Attrition_Dashboard.png
-
 
 ---
 ## 🧮 SQL Workflow
