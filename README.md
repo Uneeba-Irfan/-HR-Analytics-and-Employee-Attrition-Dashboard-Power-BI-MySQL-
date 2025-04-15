@@ -47,7 +47,7 @@ GROUP BY Gender;
 
 SELECT WorkLifeBalance, Attrition, COUNT(*) AS Count
 FROM hr_data
-GROUP BY WorkLifeBalance, Attrition;
+GROUP BY WorkLifeBalance, Attrition;```
 
 ---
 
