@@ -81,12 +81,6 @@ Focuses on understanding patterns and possible causes behind employee turnover.
 - 👶 **Younger employees** (ages **25–35**) show higher rates of attrition.
 - 📉 Employees with **lower salary hikes** or **fewer years at the company** tend to leave more frequently.
 
----
 
-## 🚀 How to Use
-1. 📥 **Clone** the repository.
-2. 🧮 **Run the SQL queries** from `HR_Analysis.sql` using **MySQL Workbench**.
-3. 📊 **Open** the `.pbix` file in **Power BI Desktop**.
-4. 🧭 Use **filters** to drill down by **Department** and **Job Role**.
 
 
