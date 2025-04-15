@@ -26,28 +26,33 @@ The dataset includes employee details such as:
 
 
 ---
-
 ## 🧮 SQL Workflow
 
 Below are a few of the SQL queries used for data preparation:
 
-### 🔹 Total Compensation by Job Role
 ```sql
 SELECT JobRole, SUM(MonthlyIncome) AS TotalCompensation
 FROM hr_data
 GROUP BY JobRole;
-```sql
+```
+```
 SELECT Department, ROUND(AVG(MonthlyIncome), 2) AS AvgIncome
 FROM hr_data
 GROUP BY Department;
-```sql
+```
+
+
+```
 SELECT Gender, COUNT(*) AS Count
 FROM hr_data
 GROUP BY Gender;
-```sql
+```
+```
+
 SELECT WorkLifeBalance, Attrition, COUNT(*) AS Count
 FROM hr_data
-GROUP BY WorkLifeBalance, Attrition;```
+GROUP BY WorkLifeBalance, Attrition; 
+```
 
 ---
 
